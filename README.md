@@ -55,7 +55,7 @@
 📌 [Документация UE5](https://docs.unrealengine.com/)  
 📌 [Форум разработчиков](https://forums.unrealengine.com/)  
 📌 [Discord Unreal Engine](https://discord.gg/unrealengine)  
-
+📌 [Playlist for Russian]([https://discord.gg/unrealengine](https://www.youtube.com/playlist?list=PLJmt27moz_Uw12pMy3aANY7JLMfF4OIhn)) 
 ---
 
 ## 🎯 **Как использовать этот репозиторий?**  
